@@ -1,78 +1,26 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Getting Started with Create React App
+Name:Anshul Sharma
+UID: 24BDA70368
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Group:24BDS-3(B)
 
-## Available Scripts
+Title:Experiment 2 – Product Card Component, Library Management UI & Person Class Hierarchy
 
-In the project directory, you can run:
+Defined Approach :
 
-### `npm start`
+In this experiment, three interactive applications were developed using **React.js, JavaScript, HTML, and CSS** to understand component-based architecture, state management, and dynamic user interface updates.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Experiment 2.1 (Product Card Component)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A reusable Product Card component was created using React. Product details such as name, price, stock status, and images were passed using props. Conditional rendering was used to display stock availability (In Stock / Out of Stock) with different styles. This helped in understanding component reusability, props handling, and UI styling.
 
-### `npm test`
+Experiment 2.2 (Library Management System)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A simple library management system was developed where users can add and remove books dynamically. React hooks (`useState`) were used to manage application state. User input was taken through form fields, and the book list was updated in real time. This experiment improved understanding of state management, event handling, and CRUD operations in React.
 
-### `npm run build`
+Experiment 2.3 (Person Class Hierarchy)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+An object-oriented approach was implemented using JavaScript classes to model Person, Student, and Teacher entities. Inheritance and method representation were used to demonstrate relationships between classes. The data was displayed using React components, helping in understanding OOP concepts in JavaScript along with UI rendering.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Conclusion :
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# exp2-react
->>>>>>> 21af5dac584899549aec86a7f44b7e2bd81bea10
-=======
-# Experiment 2 React Project
->>>>>>> 6aa1b894a176a729562586fb6bc7f4c47280a57e
+This experiment enhanced understanding of modern front-end development concepts such as React components, props, state management, conditional rendering, and JavaScript OOP principles. It also demonstrated how dynamic and interactive user interfaces can be built efficiently using React.
